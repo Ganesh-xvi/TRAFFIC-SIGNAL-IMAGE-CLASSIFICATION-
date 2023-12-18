@@ -1,5 +1,8 @@
 
 # TRAFFIC SIGNAL IMAGE CLASSIFICATION 
+
+![traffic_sign_recognition_featured](https://github.com/Ganesh-xvi/TRAFFIC-SIGNAL-IMAGE-CLASSIFICATION-/assets/134574667/2a930d41-54f8-473c-a069-9f75494eed74)
+
 ## Project Overview
 
 This project focuses on developing a machine learning model for classifying traffic signals based on their distinct visual features. Traffic signal classification is crucial for autonomous driving systems and advanced driver-assistance systems (ADAS), enhancing road safety and navigation efficiency.
@@ -9,8 +12,6 @@ This project focuses on developing a machine learning model for classifying traf
 - Achieve high accuracy in classifying various traffic signs.
 - Utilize advanced neural network architectures for image classification.
 - Contribute to the development of intelligent transportation systems (ITS).
-
-
 
 ## Methodology
 
